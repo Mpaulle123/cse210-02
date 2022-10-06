@@ -1,4 +1,4 @@
-from hilo_game.starting import general
+from game.director import Director
 
-start = general()
-start.start_game()
+director = Director()
+director.start_game()
