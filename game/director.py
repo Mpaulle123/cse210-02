@@ -78,7 +78,7 @@ class Director:
     def compute_score(self):
         """
         If the guess is correct, the score is increased by 100. If the guess is incorrect, the score is
-        decreased by 70
+        decreased by 75
         :return: The score is being returned.
         """
 
